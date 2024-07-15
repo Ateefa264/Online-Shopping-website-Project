@@ -58,5 +58,5 @@ The project is organized into backend and frontend components.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ateefa264/OnlineShoppingWebsite.git
+   git clone https://github.com/Ateefa264/OnlineShoppingWebsiteProject.git
 
